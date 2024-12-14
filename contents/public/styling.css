@@ -1,0 +1,349 @@
+/* General Page Styles */
+/* Overall body styling, setting a gradient background and default font. */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #f7f9fc, #e4e9f2);
+    color: #333;
+  }
+  
+  /* Header Section */
+  /* Styling the header with fixed positioning, background color, and spacing. */
+  /* Adjust Header Height */
+/* Reduce the header padding to make it thinner */
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #0366d6; /* Primary blue color */
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem; /* Reduced padding for a thinner header */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Adjust Buttons Inside Header */
+  header nav a,
+  header nav button,
+  #auth-buttons button {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 0.5rem;
+    font-size: 0.9rem; /* Slightly smaller font size */
+    padding: 0.5rem 0.8rem; /* Ensure buttons fit well within the header */
+    border-radius: 4px; /* Slight rounding for better appearance */
+    border: none;
+  }
+  
+  /* Ensure Buttons are Fully Visible */
+  #auth-buttons button {
+    background-color: #0366d6;
+    color: #fff;
+    font-size: 0.9rem;
+    padding: 0.5rem 0.8rem;
+    cursor: pointer;
+  }
+  
+  #auth-buttons button:hover {
+    background-color: #024a8e;
+  }
+  
+  /* Adjust Main Section Padding */
+  /* Provide extra spacing to avoid content being cut off below the thinner header */
+  main {
+    padding-top: 60px; /* Offset for reduced header height */
+    padding-bottom: 50px;
+  }
+  
+  /* Footer Styles */
+/* Position footer at the bottom of the screen */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #0366d6; /* Primary blue color */
+    color: #fff;
+    text-align: center;
+    padding: 0.5rem 0; /* Thin line of padding */
+    font-size: 0.8rem; /* Smaller text size for a clean look */
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+    z-index: 10; /* Ensures the footer stays above other content */
+  }
+  
+  /* Adjust footer link styles */
+  footer a {
+    color: #fff;
+    text-decoration: underline;
+  }
+  
+  footer a:hover {
+    text-decoration: none;
+  }
+  
+  /* Button Styles */
+  /* General styling for buttons across the page. */
+  button {
+    background-color: #0366d6;
+    color: #fff;
+    border: none;
+    padding: 0.7rem 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  /* Button hover effect for better interactivity. */
+  button:hover {
+    background-color: #024a8e;
+  }
+  
+  /* Form Styles */
+  /* Styling the forms used for login, registration, and other inputs. */
+  form {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Input and text area styles within the forms. */
+  form input,
+  form textarea {
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 0.7rem;
+  }
+  
+  /* Form button styling for uniformity with other buttons. */
+  form button {
+    font-size: 1.1rem;
+  }
+  @media (max-width: 768px) {
+    header {
+      flex-wrap: wrap;
+      padding: 0.5rem;
+    }
+  
+    #auth-buttons {
+      margin-top: 0.5rem;
+    }
+  }
+  
+  /* User Profile Section */
+  /* Styling for the user profile card. */
+  #user-profile {
+    text-align: center;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Profile section header text. */
+  #user-profile h3 {
+    margin-bottom: 1rem;
+  }
+  
+  /* Follow button styling within the user profile. */
+  #follow-btn {
+    margin-top: 1rem;
+  }
+  
+  /* Recipe Cards */
+  /* Layout and spacing for the recipes container. */
+  #recipes-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
+    gap: 1rem;
+    padding: 2rem;
+    background: #f7f9fc;
+  }
+  
+  /* Individual recipe card styling. */
+  .recipe-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    background: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  /* Hover effect for recipe cards. */
+  .recipe-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Recipe card header text. */
+  .recipe-card h3 {
+    font-size: 1.2rem;
+    color: #0366d6;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Recipe card description text. */
+  .recipe-card p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  /* Search Suggestions */
+  /* Container for displaying search suggestions. */
+  #suggestions-container {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling individual suggestion items. */
+  .suggestion-item {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s;
+  }
+  
+  /* Hover effect for search suggestions. */
+  .suggestion-item:hover {
+    background: #f7f9fc;
+  }
+  
+  /* Circle design for suggestion items. */
+  .circle {
+    width: 40px;
+    height: 40px;
+    background-color: #0366d6;
+    color: #fff;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-right: 1rem;
+  }
+  
+  /* Responsive Adjustments */
+  /* Adjustments for smaller screens to maintain usability. */
+  @media (max-width: 768px) {
+    header nav {
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+  
+    #recipes-container {
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+  }
+
+  /* Profile-specific recipe card styling */
+.recipe-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    background: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .recipe-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .recipe-card h3 {
+    font-size: 1.2rem;
+    color: #0366d6;
+    margin-bottom: 0.5rem;
+  }
+  
+  .recipe-card p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  /* User Profile Section */
+#user-profile-section {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Profile Header */
+  .profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-username {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #0366d6;
+  }
+  
+  /* Profile Content */
+  .profile-content {
+    margin-top: 20px;
+  }
+  
+  .profile-subheading {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  /* Recipes Container */
+  .recipes-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  /* Recipe Card */
+  .recipe-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    width: 220px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .recipe-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .recipe-card h3 {
+    font-size: 1.2rem;
+    color: #0366d6;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-card p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  

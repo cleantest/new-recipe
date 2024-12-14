@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "6739e8144e14a6a9e7180b39"
+  },
+  "username": "brit",
+  "password": "$2b$10$NQGnqkWBvDBSkG78eFtOo.T3j.lWGgYsQVZMVyQkpN/uxfSWe9erK",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "673b85322cbb50881d95f9b3"
+  },
+  "username": "brity",
+  "password": "$2b$10$KeplMFV6eoeSv6oeZeh0jekfQPHf2GPZiO/qbMOVPLF2XGB78I9py",
+  "email": "brity@wert"
+},
+{
+  "_id": {
+    "$oid": "673b8dc4738a4370739f7042"
+  },
+  "username": "brita",
+  "password": "$2b$10$eZYZG5YaEAV5PnxXLmG8ru9zIC7HXnD0Us/jooSxO1GUbu7wA1s.O",
+  "email": "there@there"
+},
+{
+  "_id": {
+    "$oid": "673db6d24e311eaa4c068284"
+  },
+  "username": "britu",
+  "password": "$2b$10$pO1otNzfHAXKWfpuKAq4/O0/CEegRhZATI5.tiuiGDUrnjtnZkMxm",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "673dd0ba207f7ee03eaaf0fd"
+  },
+  "username": "error",
+  "password": "$2b$10$9eesj5HSl1IRasBa7g5hpehmEjZTYt7HCJdbpIc4k8uxHl1YA8jNa",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "673f21411c62f5121f0f00b7"
+  },
+  "username": "brite",
+  "password": "$2b$10$djcz/8sFBnziPhrMSluN1.rJliKhSc1bu8Q4HadiFPJ7ihghPc90O",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "673f254c1fc524e058339c88"
+  },
+  "username": "errort",
+  "password": "$2b$10$.zRbjj9fs0rPPNw/XGYiq.fRoc7ztKFcoD1VJo0pWCZd8c/9oy1Yq",
+  "email": "gut@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "673f30071fc524e058339c89"
+  },
+  "username": "testuser",
+  "password": "$2b$10$nIzT6Ig2jrHGwOoEk/UCBOWXMdoErbqEVaUNa1r1i5zmsPQKDYjJO",
+  "email": "testuser@example.com"
+},
+{
+  "_id": {
+    "$oid": "6741b35851ae595d7a24bbc6"
+  },
+  "username": "errorr",
+  "password": "$2b$10$NgQSk6yzwW8WEKrlJBw5pe7RiqpCkzV9Jq7uaT71CA25YUUa83JlS",
+  "email": "gut@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6741c92347fe9b6bbd056f37"
+  },
+  "username": "thereb",
+  "password": "$2b$10$UEGDocmJcJ4E/qJf8PcGO.cfVkGYgoiDhQNSegPXcvYV/GlOljZYC",
+  "email": "gut@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6741cec9c013f41e36c57fb0"
+  },
+  "username": "theree",
+  "password": "$2b$10$.hhieR.RdpOJkYVRGw01guYI1Lk1Wo7w68tRkMlSdqZY2nv/OAgXu",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6741d0e06ac9c1c9c4faa61e"
+  },
+  "username": "britt",
+  "password": "$2b$10$keJoziCTa9V9PDwjP0IDZOi4/8dEQ0D2fmtP2TwOZw./Vd1PXGbLm",
+  "email": "gut@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67462542ed4f28a3e4006433"
+  },
+  "username": "bit",
+  "password": "$2b$10$AlFBK1iJoiPItd33GpPlgeqC0eA2iAu9SmHVSEYv.LkYjz939eBHm",
+  "email": "brity@wert"
+},
+{
+  "_id": {
+    "$oid": "674634c814e08d3d2c8cf78e"
+  },
+  "username": "bitt",
+  "password": "$2b$10$QLDtRBocS//0zBPOTAQyzO4rXab26rtZE5uMjsmj0idKnb5OxQZ9e",
+  "email": "gut@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67463700029217d0f0b37787"
+  },
+  "username": "but",
+  "password": "$2b$10$rfLHSgVLAvwa7pS3E5MAlOVFxeEJXamYpKdV.FJ6Y8F4.Fz4NWwye",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6749bc8e4c2f32007c72cf3f"
+  },
+  "username": "tut",
+  "password": "$2b$10$j/AMb/SnroqMJWsJqXY2C.n1ux8UwwuqFOUZia3pnK2nsZUZkm7f2",
+  "email": "gut@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "674afea468b1368ebc8ab510"
+  },
+  "username": "brid",
+  "password": "$2b$10$gq6cQqYNghIpE1b/zKA6R.hHCb3HS2rjxYGzn5TFNvOSrX0BkCTNC",
+  "email": "hint@gmail.com",
+  "following": [
+    {
+      "$oid": "6739e8144e14a6a9e7180b39"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c18da25acfb762868f2b0"
+  },
+  "username": "jiu",
+  "password": "$2b$10$XOr8tgoZn/3LoXVvj8pXe.jvE4EYJTgpjfwbroh1ihKFwRSNkU44y",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "674c1b5c906da8bbbeaa0167"
+  },
+  "username": "briend",
+  "password": "$2b$10$W/SzhgohlprFFsLCHkTYGOott2fBWzEyuPKnjyw3YBTaSjUsD39Wu",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "674c1bd8906da8bbbeaa0168"
+  },
+  "username": "briendy",
+  "password": "$2b$10$Xg3VsYxFLm5GxFJonIZnQO/gOrMJuLLWm2YRBPTAvXshWg6NceygG",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "674c488180c898d098e4044d"
+  },
+  "username": "brityt",
+  "password": "$2b$10$YSbBZUO5BbUSa41CWk/3RefTbnk.m4leQonwxPI35Xyhy1ns0PVGq",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "674d504d0d74b411369f9714"
+  },
+  "username": "britter",
+  "password": "$2b$10$oWx.VNYjNMyK7N5aYoz4B.V9yOoG.qDMquIX17HMYVlPUemsDLo8W",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "674deea849d3c5ae664b9aa0"
+  },
+  "username": "wesh",
+  "password": "$2b$10$jWmY2RoOPd9Wp.xyVJYkiefGyBEFVmzbSOrbS65Wk.xX/k42cHqbK",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6751a642ddda58b0f564d6dc"
+  },
+  "username": "tenti",
+  "password": "$2b$10$Fa5MUWPXLtQLCwpCbL3gy.gxs0FpjkcEcKGce4AAKuPfutpQRDRo.",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6756ce378b2d16684f017591"
+  },
+  "username": "tent",
+  "password": "$2b$10$gEIqnKPoSS2VgZpF9e/BsOfetSHZ1X39vOKXm5AFRtUfwwgMI2JNG",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6756e5538b2d16684f017592"
+  },
+  "username": "teni",
+  "password": "$2b$10$r4j/yJmNOLrXkfmz4RgJrOsuLeyAAINJRAnMZPfw7YBwK3d0fHL6q",
+  "email": "hiny@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6758d6ccbcf927774a8af54d"
+  },
+  "username": "britney",
+  "password": "$2b$10$5EqNAq2FelIwHr7PXkHs0O6S9HNq9FmC9ZWcQMj9V9ylAU9co0ULq",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "675b4d98db17b3d581c9a53f"
+  },
+  "username": "kiter",
+  "password": "$2b$10$5r9TiMrs27hCbW9l4b.Dk.TY92L9mndZaKncDwbVznDF9zvTYGrCu",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "675b4dbfdb17b3d581c9a540"
+  },
+  "username": "guru",
+  "password": "$2b$10$aDyT2EARLn6fDRAbCNA9.OohlVdg6iESaKcgRZP3yZEPGl5NLBq8G",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "675be8aee53961c70d251eec"
+  },
+  "username": "tentt",
+  "password": "$2b$10$eBV/M..hRbcJaU/9S1EAJuahuLpWbVkzTmdGnT8pJq/.PtFF1zRKO",
+  "email": "hint@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "675bef95cb59b366031d2942"
+  },
+  "username": "welsh",
+  "password": "$2b$10$ETBNTwL.xmS19HL0.XPOGefel/bEPqLsChFw/154yLlXkzQ2Z3owO",
+  "email": "john@example.com"
+}]

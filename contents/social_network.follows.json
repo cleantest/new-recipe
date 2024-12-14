@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "675c5ee8c5c6a088fa023fcd"
+  },
+  "userId": "675c5547c419ada82e99308b",
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "675d2dbcc5c6a088fa023fce"
+  },
+  "userId": "6751a642ddda58b0f564d6dc",
+  "following": [
+    {
+      "$oid": "6751a642ddda58b0f564d6dc"
+    },
+    {
+      "$oid": "675b4dbfdb17b3d581c9a540"
+    }
+  ]
+}]
